@@ -1,5 +1,5 @@
 # Documentation
-
+https://github.com/okyner/Pengurutan/wiki/Documentation
 
 # Program Pengurutan dengan Bubble Sort
 
